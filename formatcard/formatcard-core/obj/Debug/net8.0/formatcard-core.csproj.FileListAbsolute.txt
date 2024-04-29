@@ -1,0 +1,13 @@
+D:\Repository\formatcard\formatcard\formatcard-core\bin\Debug\net8.0\formatcard-core.deps.json
+D:\Repository\formatcard\formatcard\formatcard-core\bin\Debug\net8.0\formatcard-core.dll
+D:\Repository\formatcard\formatcard\formatcard-core\bin\Debug\net8.0\formatcard-core.pdb
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\formatcard-core.csproj.AssemblyReference.cache
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\formatcard-core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\formatcard-core.AssemblyInfoInputs.cache
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\formatcard-core.AssemblyInfo.cs
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\formatcard-core.csproj.CoreCompileInputs.cache
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\formatcard-core.sourcelink.json
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\formatcard-core.dll
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\refint\formatcard-core.dll
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\formatcard-core.pdb
+D:\Repository\formatcard\formatcard\formatcard-core\obj\Debug\net8.0\ref\formatcard-core.dll
